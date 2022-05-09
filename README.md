@@ -6,9 +6,11 @@
 >0.기존 파일 불러오기
 
 >1.조회
+>![조회](https://user-images.githubusercontent.com/103713510/167430959-27a59832-fce4-4d55-af7a-502caa1b420e.png)
 
 >2.예약
->
+>![예약](https://user-images.githubusercontent.com/103713510/167430772-5967312e-c854-4638-a319-3d593a60b9fc.png)
+
 >3.예약 취소
 >
 >4.예약 변경
