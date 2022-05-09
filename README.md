@@ -1,6 +1,6 @@
 "screenshots"
 ======================
->실행페이지
+>[실행페이지]
 >![실행](https://user-images.githubusercontent.com/103713510/167403206-4fd0a602-4643-4050-8a7e-b7102c18f048.png)
 
 >0.기존 파일 불러오기
